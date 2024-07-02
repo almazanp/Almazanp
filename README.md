@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pedro Almazan</h1>
-<h3 align="center">A passionate Data Science Analyst</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm Pedro ALmazan, a passionate Data Science Analyst trying to learn as much as I can so I can start gaining experience in the field</h3>
 
 - 🌱 I’m currently learning **Permutation and Boosting**
 
